@@ -8,7 +8,7 @@ This project is a solution for company owners, it offers a way for them to handl
 
 This project was built with the latest flutter and in Android Studio Iguana. The app can run in android, ios, web etc. The easiest way to run the app if you are using android studio is through the android emulator. If you dont know how to setup the emulator you can learn from the documentation here, https://docs.flutter.dev/get-started/install/windows/mobile
 
-Alternatively if you prefer to run the app through other available methods for example in your physical device, web etc, feel free to go for it.
+Alternatively if you prefer to run the app through other available methods for example web, in your physical device(this is the best choice, offers better experience) etc, feel free to go for it.
 
 
 
