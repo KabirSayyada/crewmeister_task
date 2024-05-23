@@ -21,7 +21,10 @@ Alternatively if you prefer to run the app through other available methods for e
 - Period
 - Member note (reason for absence)
 - Status ( 'Requested', 'Confirmed' or 'Rejected')
-- Admitter note 
+- Admitter note
+
+
+• An absence details screen was added. By clicking on any card showing the absence, more details can be seen about the absence, including Acceptance Criteria.
 
 • In the project the ability to paginate was added to show the first 10 absences with pagination and then loads the others when the user scrolls or clicks the load more button.
 
